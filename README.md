@@ -29,8 +29,8 @@
 <p align="left">
 <a href="https://twitter.com/@germainnsibula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@germainnsibula" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iragi nsibula germain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iragi nsibula germain" height="30" width="40" /></a>
-<a href="https://fb.com/germain iragi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="germain iragi" height="30" width="40" /></a>
-<a href="https://instagram.com/@germain iragi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@germain iragi" height="30" width="40" /></a>
+<a href="https://fb.com/germainiragi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="germainiragi" height="30" width="40" /></a>
+<a href="https://instagram.com/@germainiragi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@germainiragi" height="30" width="40" /></a>
 <a href="https://medium.com/@iragi nsibula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iragi nsibula" height="30" width="40" /></a>
 </p>
 
