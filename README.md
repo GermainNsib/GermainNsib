@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 🤝 I’m looking for help with **STAR my personal Assistant AI**
+- 🤝 I’m looking for help with **STAR my personal AI Assistant**
 
 - 💬 Ask me about **Java, Flutter, Arduino...**
 
