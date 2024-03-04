@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=germainnsib&label=Profile%20views&color=0e75b6&style=flat" alt="germainnsib" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=germainnsib" alt="germainnsib" /></a> </p>
+[<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=germainnsib" alt="germainnsib" /></a> </p>](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true)
 
 <p align="left"> <a href="https://twitter.com/@germainnsibula" target="blank"><img src="https://img.shields.io/twitter/follow/@germainnsibula?logo=twitter&style=for-the-badge" alt="@germainnsibula" /></a> </p>
 
